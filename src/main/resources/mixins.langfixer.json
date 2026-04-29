@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "decok.dfcdvadstf.language.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "mixins.langfixer.refmap.json",
+  "client": [
+    "MixinGuiLanguage",
+    "MixinGuiLanguageList"
+  ]
+}
